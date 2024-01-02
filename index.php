@@ -84,27 +84,9 @@ $product = $query->fetchAll(PDO::FETCH_ASSOC);
     <?php endforeach ?>
 
     <!-- 
-    <div class="col d-flex flex-column align-items-center"><a href="https://radom-meal2.vercel.app/"> <img class="img-project" src="img/randomMeal.png" alt=""></a>
-        <div>
-            <h4>Generateur de recette aleatoire</h4>
-            <ul class="d-flex ">
-                <li class="button button__color button__color--smaller"><i class="fa-brands fa-html5 "></i> HTML</li>
-                <li class="button button__color button__color--smaller"><i class="fa-brands fa-css3-alt "></i> CSS</li>
-                <li class="button button__color button__color--smaller"><i class="fa-brands fa-js "></i> JavaScript</li>
-            </ul>
-        </div>
-    </div>
-    </div>
+    
     <div class=" row more">
-        <div class="col d-flex flex-column align-items-center"><a href="https://frontend-mentor-1-seven.vercel.app/"><img class="img-project" src="img/frontendmentor.png" alt=""></a>
-            <div>
-                <h4>Exemple de carte produit</h4>
-                <ul class="d-flex ">
-                    <li class="button button__color button__color--smaller"><i class="fa-brands fa-html5 "></i> HTML</li>
-                    <li class="button button__color button__color--smaller"><i class="fa-brands fa-css3-alt "></i> CSS</li>
-                </ul>
-            </div>
-        </div>
+        
         <div class="col-4 d-flex flex-column align-items-center"><a href="https://countries-api-dusky-nu.vercel.app/"><img class="img-project" src="img/countries.png" alt=""></a>
             <div>
                 <h4>Site d'infos general des pays</h4>
